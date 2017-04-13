@@ -1,0 +1,5 @@
+If there is no content here, that means none of the entry has 3 consecutive failed login within 20 seconds window 
+210.238.40.43 - - [01/Jul/1995:00:00:09 -0400] "GET /login HTTP/1.0" 300 7074
+210.238.40.43 - - [01/Jul/1995:00:00:09 -0400] "GET /bbc HTTP/1.0" 200 7074
+210.238.40.43 - - [01/Jul/1995:00:00:09 -0400] "GET /abc HTTP/1.0" 300 7074
+

@@ -1,0 +1,10 @@
+/
+/shuttle/countdown/count.gif
+/shuttle/countdown/video/livevideo.gif
+/shuttle/missions/sts-71/sts-71-patch-small.gif
+/shuttle/countdown/
+/images/ksclogo-medium.gif
+/images/KSC-logosmall.gif
+/shuttle/missions/sts-71/mission-sts-71.html
+/shuttle/missions/sts-71/movies/sts-71-tcdt-crew-walkout.mpg
+/ksc.html
