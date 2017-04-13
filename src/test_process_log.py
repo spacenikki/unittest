@@ -24,4 +24,3 @@ class TestLogAnalysis(unittest.TestCase):
 
 unittest.main()
 
-/Users/nikkilacey/Documents/github/unittest/src/test_process_log.py
