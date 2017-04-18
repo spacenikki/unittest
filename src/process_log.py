@@ -15,7 +15,7 @@ log = readfile.read_file(filename)
 class LogAnalysis():
 	def __init__(self, log):
 		self.log = log
-
+		#  then all function below this class - can use "log"
 	# Feature 1 -  find the top 10 ips
 	def top10_IPs(self):
 		ips_list = []
@@ -327,7 +327,6 @@ if __name__ == '__main__':
 	insight.top10_60mins()
 	insight.blocked_log()
 
+# /Users/nikkilacey/Documents/github/unittest/src/process_log.py
 
-
-/Users/nikkilacey/Documents/github/unittest/src/process_log.py
 
